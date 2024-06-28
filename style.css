@@ -9,7 +9,7 @@
     body {
         height: 100vh;
         background-color: #000;
-        background-image: url(img/fondofood.jpg);
+        background-image: url(/img/fondofood.jpg);
         background-size: cover;
         background-position: center;
     }
